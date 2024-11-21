@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arelisps, a software developer engineer. From Costa Rica 🌿🍃🌋
+- 👋 Hi, I’m @arelisps, a software developer engineer from Costa Rica 🌿🍃🌋
 - 👀 I’m interested in software development, machine learning, and artificial intelligence
 - 🌱 I’m currently taking my master’s degree in Computer Science 💻
 - 📫 You can reach out by sending an email to arelispicado97@hotmail.com
